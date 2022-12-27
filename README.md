@@ -6,4 +6,4 @@
 <a href="https://rec8730.tistory.com/134"> 두수의 차 </a><br/>
 <a href="https://rec8730.tistory.com/133"> 나머지 구하기 </a><br/>
 <a href="https://rec8730.tistory.com/135"> 몫 구하기 </a><br/>
-<a href="https://rec8730.tistory.com/136"> 나이  </a><br/>
+<a href="https://rec8730.tistory.com/136"> 나이 출력 </a><br/>
