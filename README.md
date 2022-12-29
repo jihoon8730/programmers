@@ -7,4 +7,4 @@
 <a href="https://rec8730.tistory.com/133"> 나머지 구하기 </a><br/>
 <a href="https://rec8730.tistory.com/135"> 몫 구하기 </a><br/>
 <a href="https://rec8730.tistory.com/136"> 나이 출력 </a><br/>
-<a href="https://rec8730.tistory.com/136"> 나이 출력2 </a><br/>
+<a href="https://rec8730.tistory.com/137"> 숫자 비교하기 </a><br/>
