@@ -12,3 +12,4 @@
 <a href="https://rec8730.tistory.com/139"> 각도기 </a><br/>
 <a href="https://rec8730.tistory.com/140"> 두 수의 나눗셈 </a><br/>
 <a href="https://rec8730.tistory.com/141"> 짝수의 합 </a><br/>
+<a href="https://rec8730.tistory.com/143"> 배열의 평균값 </a><br/>
