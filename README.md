@@ -15,3 +15,4 @@
 <a href="https://rec8730.tistory.com/143"> 배열의 평균값 </a><br/>
 <a href="https://rec8730.tistory.com/144"> 양꼬치 </a><br/>
 <a href="https://rec8730.tistory.com/146"> 머쓱이보다 키 큰 사람 </a><br/>
+<a href="https://rec8730.tistory.com/148"> 피자 나눠 먹기(1) </a><br/>
